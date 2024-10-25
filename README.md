@@ -1,8 +1,8 @@
 ## Protocol Berg
 
-This is a website on the world-wide web utilizing hyper-links to assist you navigating the website of the Protocol Berg conference in Berlin.
+This is a website on the world-wide web utilizing hyper-links to assist you navigating the website of the Protocol Berg v1 conference in Berlin.
 
-- <https://protocol.berlin>
+- <https://2023.protocol.berlin>
 
 ## Install
 
