@@ -46,7 +46,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: 2023.protocol.berlin
+          cname: v1.protocol.berlin
 #      - uses: aquiladev/ipfs-action@v0.3.1
 #        name: Upload to Pinata
 #        with:
