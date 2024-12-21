@@ -2,7 +2,7 @@
 
 This is a website on the world-wide web utilizing hyper-links to assist you navigating the website of the Protocol Berg v1 conference in Berlin.
 
-- <https://2023.protocol.berlin>
+- <https://v1.protocol.berlin>
 
 ## Install
 
